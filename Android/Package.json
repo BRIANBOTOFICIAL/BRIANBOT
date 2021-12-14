@@ -2,7 +2,7 @@
   "name": "Nombre",
   "version": "0.0.0",
   "description": "",
-  "main": Android
+  "main": Androir
   "scripts": {
   "start": "node nombre del archivo creado anteriormente.js"
   },
